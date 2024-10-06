@@ -1,0 +1,124 @@
+
+h1 {
+    color:skyblue;
+    background-color:#000080;
+    text-align: center;
+    font-size: 5wv;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+   }
+   tr {
+    background-color: royalblue;
+    text-align: center;
+    font-size: 5wv;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+   }
+   td {
+    background-color: cornflowerblue;
+    text-align: center;
+    font-size: 5wv;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+   }
+   #navbar {
+
+    background-color: blue;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+   }
+
+#navbar th {
+    border-style: solid;
+}
+
+.navbar {
+    background-color: #fffaff;
+    border: solid #000080;
+    font-size: 20px;
+}
+
+.navbar th {
+    border: solid #000080;
+    padding: 5px;
+}
+
+footer {
+    background-color: #000080;
+    color: #fffaff;
+    font-size: 12px;
+    border: 3px solid #fffaff;
+    padding-left: 5px;
+}
+
+.profile {
+    background-color: #3e92cc;
+    text-align: center;
+}
+
+.even-row {
+    background-color: #5764a5;
+}
+h1 {
+    border: 5px solid black;
+    display: inline;
+}
+.box {
+    border: 5px solid black;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+#two {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    background: blue;
+}
+.fix {
+    position: fixed;
+    top: 50px;
+    left: 100px;
+    border: 5px solid blue;
+}
+.navbar {
+    background-color: #fffaff;
+    border: solid #000080;
+    font-size: 20px;
+    position: sticky;
+    top: 0px;
+}
+.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: block;
+    background-color: #fffaff;
+    color: #000080;
+    padding: 5px;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+    box-shadow: 5px 5px 10px black;
+
+}
+a {
+    color: navy;
+    text-decoration: none;
+}
+.profile p {
+    background-color: purple;
+    color: white;
+}
+h2 {
+    text-align: left;
+    font-size: 5wv;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h3 {
+    font-size: 5wv;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h4 {
+    font-size: 5wv;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
